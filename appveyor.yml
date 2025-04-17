@@ -68,7 +68,7 @@ cache:
   - packages -> **\packages.config
 
 build:
-  project: C:/projects/dependencies/Dependencies.sln
+  project: C:/projects/dependenciesv2/Dependencies.sln
 
 environment:
   git_tag: "git tag -l --points-at HEAD" # return the tag associated with the current commit
